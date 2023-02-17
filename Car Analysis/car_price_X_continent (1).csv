@@ -1,0 +1,182 @@
+,country,car purchase amount,net worth,continent,sub_region
+0,Afghanistan,56017.850725,342533.57937500003,Asia,Southern Asia
+1,Algeria,47752.068329999995,539669.88312,Africa,Northern Africa
+2,American Samoa,24221.99937,320834.0102,Oceania,Polynesia
+3,Andorra,39239.6999425,472957.6485,Europe,Southern Europe
+4,Angola,44498.000075,454485.5292,Africa,Middle Africa
+5,Anguilla,48188.74725,586062.7632,Americas,Caribbean
+7,Argentina,48663.68901,278339.9253,Americas,South America
+8,Armenia,45037.148868000004,410108.01957999996,Asia,Western Asia
+9,Aruba,33131.52734,362564.346,Americas,Caribbean
+10,Australia,30757.65726,291897.4057,Oceania,Australia and New Zealand
+11,Austria,36947.84589,412336.49875,Europe,Western Europe
+12,Bahamas,44810.833115,310892.6274,Americas,Caribbean
+13,Bahrain,46185.461795,518543.84235,Asia,Western Asia
+14,Bangladesh,29829.538935,169332.71399999998,Asia,Southern Asia
+15,Belarus,55682.4141,669050.92615,Europe,Eastern Europe
+16,Belgium,37183.10293,432447.5324,Europe,Western Europe
+17,Belize,38802.61452,429768.31246666674,Americas,Central America
+18,Benin,49958.80387,539758.7014,Africa,Western Africa
+19,Bermuda,43972.886845,437215.8654,Americas,Northern America
+20,Bhutan,39766.658446,419807.84594,Asia,Southern Asia
+21,"Bonaire, Sint Eustatius and Saba",70878.29664,819002.1748,Americas,Caribbean
+22,Bosnia and Herzegovina,40062.144115,578139.1083,Europe,Southern Europe
+23,Botswana,45046.25713,411947.8556,Africa,Southern Africa
+25,Brazil,42451.89291,439700.5152,Americas,South America
+26,Bulgaria,43621.76784,247123.3284,Europe,Eastern Europe
+27,Cambodia,51612.14311,612242.7755,Asia,South-Eastern Asia
+28,Cameroon,25971.95673,259049.2824,Africa,Middle Africa
+29,Canada,40784.0324,190781.238,Americas,Northern America
+30,Cayman Islands,55174.98946,627086.6563,Americas,Caribbean
+31,Central African Republic,40004.87142,391848.6041,Africa,Middle Africa
+32,Chad,44633.99241,431098.9998,Africa,Middle Africa
+33,Chile,39578.081776666666,541872.0590666666,Americas,South America
+34,China,52849.494413333334,552075.8682333333,Asia,Eastern Asia
+37,Colombia,32210.607173333334,440516.48963333335,Americas,South America
+38,Cook Islands,67422.36313,548599.0524,Oceania,Polynesia
+39,Costa Rica,33514.45950333334,251948.31766666667,Americas,Central America
+40,Croatia,52104.65502,490162.76526666665,Europe,Southern Europe
+41,Curaçao,39074.13452,350065.4675,Americas,Caribbean
+42,Czech Republic,39259.34268,394899.70235000004,Europe,Eastern Europe
+43,Denmark,58350.31809,188032.0778,Europe,Northern Europe
+44,Djibouti,37526.573383333336,413302.6681333333,Africa,Eastern Africa
+45,Dominican Republic,38392.2068,279298.51981333335,Americas,Caribbean
+46,Ecuador,42321.58847333333,497609.58636666666,Americas,South America
+47,Egypt,48836.4783025,441348.404775,Africa,Northern Africa
+48,El Salvador,44463.30502,625484.0917,Americas,Central America
+49,Equatorial Guinea,47112.390586,379332.21667999995,Africa,Middle Africa
+50,Ethiopia,39338.031644999995,400449.79505,Africa,Eastern Africa
+51,Faroe Islands,47782.96865,635610.05155,Europe,Northern Europe
+52,France,54999.79754,424111.80205,Europe,Western Europe
+53,French Guiana,48798.47563,423369.08770000003,Americas,South America
+54,French Polynesia,42134.3197625,478415.73199999996,Oceania,Polynesia
+56,Gabon,53017.26723,481433.4324,Africa,Middle Africa
+57,Gambia,43674.13712,432392.6311333333,Africa,Western Africa
+58,Georgia,28031.20985,348833.8403,Asia,Western Asia
+59,Germany,48104.11184,301026.2206,Europe,Western Europe
+60,Ghana,47313.466675,501187.47005,Africa,Western Africa
+61,Greece,39061.996555000005,382083.05079999997,Europe,Southern Europe
+62,Greenland,39575.032456,396752.24554000003,Americas,Northern America
+63,Grenada,39285.848144,353222.10444,Americas,Caribbean
+64,Guadeloupe,55987.32428333333,592785.5028333333,Americas,Caribbean
+65,Guam,44779.0776275,368479.6422,Oceania,Micronesia
+66,Guatemala,42180.164529999995,601224.57785,Americas,Central America
+67,Guernsey,53683.330515,410457.66505,Europe,Northern Europe
+68,Guinea,45995.419046,454676.88242,Africa,Western Africa
+69,Guinea-Bissau,48771.205795,497041.3605,Africa,Western Africa
+70,Guyana,37879.65385,298246.0609,Americas,South America
+71,Haiti,52049.619315,383055.8957,Americas,Caribbean
+72,Honduras,26599.90843,281690.8431,Americas,Central America
+73,Hong Kong,57430.76903,278181.8354,Asia,Eastern Asia
+74,Hungary,47719.47741,365871.4992,Europe,Eastern Europe
+75,Iceland,40081.31773333333,210135.17666666667,Europe,Northern Europe
+76,India,49922.98634,506444.26410000003,Asia,Southern Asia
+77,Indonesia,46213.789835,455656.66359999997,Asia,South-Eastern Asia
+78,Iraq,49631.029472,535066.5952999999,Asia,Western Asia
+79,Isle of Man,51464.206816666665,272364.57533333334,Europe,Northern Europe
+80,Israel,49212.32920666667,540737.8151,Asia,Western Asia
+81,Italy,43874.545025,406614.83770000003,Europe,Southern Europe
+82,Jamaica,50835.489116666664,391070.66473333334,Americas,Caribbean
+83,Japan,41451.71843,244310.5736,Asia,Eastern Asia
+84,Jersey,33290.63948666667,333321.39393333334,Europe,Northern Europe
+85,Jordan,44142.049515,548503.91315,Asia,Western Asia
+86,Kazakhstan,39002.0771,386128.1333,Asia,Central Asia
+87,Kenya,55592.70383,517480.0937,Africa,Eastern Africa
+88,Kiribati,49768.764540000004,436275.69493333326,Oceania,Micronesia
+89,Kuwait,36979.04333666666,317221.4212366666,Asia,Western Asia
+90,Kyrgyzstan,45778.363682,452777.07202,Asia,Central Asia
+91,Latvia,54169.74570333333,449726.03226666665,Europe,Northern Europe
+92,Lebanon,48622.66097,701782.528,Asia,Western Asia
+93,Liberia,60501.84345,539850.50195,Africa,Western Africa
+94,Liechtenstein,39914.66032,379520.55686,Europe,Western Europe
+95,Lithuania,41631.880730000004,464294.58235,Europe,Northern Europe
+96,Luxembourg,38246.087435,336059.01235,Europe,Western Europe
+97,Macao,43660.60440666667,547788.0225999999,Asia,Eastern Asia
+98,Madagascar,38419.18704,331481.99765000003,Africa,Eastern Africa
+99,Malawi,33460.51397,424929.86505,Africa,Eastern Africa
+100,Malaysia,32553.53423,347177.8367,Asia,South-Eastern Asia
+101,Maldives,40754.72292,209647.41766666668,Asia,Southern Asia
+102,Mali,45271.46081,507572.635,Africa,Western Africa
+103,Malta,49359.77433,378485.7999,Europe,Southern Europe
+104,Marshall Islands,41361.377275,398409.1821375,Oceania,Micronesia
+105,Martinique,43386.68774,317253.70323333336,Americas,Caribbean
+106,Mauritania,39241.38991666667,432845.0057833334,Africa,Western Africa
+107,Mauritius,50715.070153333334,486004.78456666664,Africa,Eastern Africa
+108,Mayotte,55389.63879333334,637336.4164666667,Africa,Eastern Africa
+109,Mexico,47970.76767,595028.8431,Americas,Central America
+110,Monaco,47693.23482,580950.3967,Europe,Western Europe
+111,Mongolia,41081.146335,326672.3569,Asia,Eastern Asia
+112,Montenegro,22599.45863,129635.6343,Europe,Southern Europe
+113,Morocco,40538.59215,521305.57025,Africa,Northern Africa
+114,Mozambique,31121.222513333338,262071.6828666667,Africa,Eastern Africa
+115,Myanmar,51011.403715,475820.3804,Asia,South-Eastern Asia
+116,Namibia,56358.756310000004,586552.467025,Africa,Southern Africa
+117,Nauru,68678.4352,497950.2933,Oceania,Micronesia
+118,Nepal,41984.02402333334,417809.6436333333,Asia,Southern Asia
+119,New Caledonia,34922.42846,217188.4056,Oceania,Melanesia
+120,New Zealand,48052.65091,579640.7982,Oceania,Australia and New Zealand
+121,Nicaragua,28700.0334,430907.1673,Americas,Central America
+122,Niger,55420.56668,508555.1592,Africa,Western Africa
+123,Nigeria,37852.25165,358167.60595,Africa,Western Africa
+124,Niue,40843.306235,671208.28915,Oceania,Polynesia
+125,Norfolk Island,27923.36525,372737.9146,Oceania,Australia and New Zealand
+126,Northern Mariana Islands,48052.60867666666,437949.9464333334,Oceania,Micronesia
+127,Oman,44387.58412,429440.3297,Asia,Western Asia
+128,Pakistan,38589.527409999995,356760.74945,Asia,Southern Asia
+129,Palau,38955.21919,173079.1798,Oceania,Micronesia
+130,"Palestine, State of",37312.36754,223683.45700000002,Asia,Western Asia
+131,Papua New Guinea,42699.19997,469598.9101,Oceania,Melanesia
+132,Paraguay,39334.104965,422418.23900000006,Americas,South America
+133,Peru,31300.54347,475126.1252,Americas,South America
+134,Philippines,53774.427500000005,536488.59005,Asia,South-Eastern Asia
+135,Poland,37718.452476666665,260045.9883,Europe,Eastern Europe
+136,Portugal,39469.15735666667,473863.76389999996,Europe,Southern Europe
+137,Puerto Rico,38617.53139333333,333209.8628,Americas,Caribbean
+138,Qatar,50113.94536,581434.9652,Asia,Western Asia
+139,Rwanda,45857.75365,169714.2655,Africa,Eastern Africa
+140,Saint Barthélemy,49597.756408,455969.44036,Americas,Caribbean
+141,"Saint Helena, Ascension and Tristan da Cunha",48383.69071,432850.4157,Africa,Western Africa
+142,Saint Kitts and Nevis,42971.763845,189240.95185,Americas,Caribbean
+143,Saint Lucia,49142.51174,386287.0208,Americas,Caribbean
+144,Saint Pierre and Miquelon,56048.36673,624004.774475,Americas,Northern America
+145,Samoa,45512.589966,433275.27072000003,Oceania,Polynesia
+146,San Marino,58918.727530000004,669565.31275,Europe,Southern Europe
+147,Sao Tome and Principe,52252.53565,559471.9002,Africa,Middle Africa
+148,Saudi Arabia,27586.71854,323453.2022,Asia,Western Asia
+149,Senegal,46467.0727225,306931.928175,Africa,Western Africa
+150,Serbia,53614.686044999995,627854.1212,Europe,Southern Europe
+151,Seychelles,42793.9932,475263.2759,Africa,Eastern Africa
+152,Sierra Leone,41885.521642499996,506345.1495,Africa,Western Africa
+153,Singapore,38763.11306,211765.2494,Asia,South-Eastern Asia
+154,Slovakia,44219.73308,407476.55150000006,Europe,Eastern Europe
+155,Slovenia,46488.340565,487807.1961,Europe,Southern Europe
+156,Solomon Islands,49798.05652333333,534797.1892333333,Oceania,Melanesia
+157,Somalia,35240.347895,507107.7441,Africa,Eastern Africa
+158,South Africa,41930.94785333333,556683.5500333334,Africa,Southern Africa
+159,South Sudan,38243.06228,516817.3173,Africa,Eastern Africa
+160,Sri Lanka,31978.9799,353757.5057,Asia,Southern Asia
+161,Sudan,51130.95379,480588.2345,Africa,Northern Africa
+162,Suriname,33553.18255,498456.73523333337,Americas,South America
+163,Switzerland,38042.80065,388898.069,Europe,Western Europe
+164,Thailand,37143.51239,248447.73825,Asia,South-Eastern Asia
+165,Timor-Leste,51163.69115,559243.4953,Asia,South-Eastern Asia
+166,Togo,34803.82395,450402.2932,Africa,Western Africa
+167,Tokelau,32825.42639666667,482481.0159,Oceania,Polynesia
+168,Tonga,41034.28343,210573.7042,Oceania,Polynesia
+169,Trinidad and Tobago,60526.97788,765711.6025,Americas,Caribbean
+170,Tunisia,44809.391145,360373.08635,Africa,Northern Africa
+171,Turkey,30573.817219999997,393601.08780000004,Asia,Western Asia
+172,Turkmenistan,46047.10103,449504.3406,Asia,Central Asia
+173,Turks and Caicos Islands,35362.981250000004,387566.3417666667,Americas,Caribbean
+174,Tuvalu,37924.78731666667,375752.15013333334,Oceania,Polynesia
+175,Uganda,43572.69345,356687.9673666667,Africa,Eastern Africa
+176,Ukraine,61404.22578,285326.3544,Europe,Eastern Europe
+177,United Arab Emirates,50416.35989666667,252523.42774333336,Asia,Western Asia
+179,Uruguay,40802.73993,480343.7016,Americas,South America
+180,Vanuatu,53553.6474,436074.72095,Oceania,Melanesia
+181,Viet Nam,51985.11146000001,443895.4743333333,Asia,South-Eastern Asia
+182,Wallis and Futuna,53153.92181,426298.2538,Oceania,Polynesia
+183,Western Sahara,44318.569955,486416.97105,Africa,Northern Africa
+184,Yemen,52960.391330000006,542472.9952333333,Asia,Western Asia
+185,Zimbabwe,34602.86558,361990.148,Africa,Eastern Africa
+186,Åland Islands,51012.69686333334,523111.1172,Europe,Northern Europe
